@@ -1,0 +1,20 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+	"manifest_version": 3,
+	"name": "YT Downloader",
+	"version": "1.2",
+	"author": "saifulisalmmz",
+	"description": "Download YouTube Video,Audio,Thumable, and captions Single click.",
+	"icons": {
+		"48": "icon-48.png",
+		"96": "icon-96.png",
+		"128": "icon-128.png"
+	},
+	"content_scripts": [
+		{
+		  "matches": ["*://*.youtube.com/*"],
+		  "js": ["core.js"]
+		}
+	]
+}

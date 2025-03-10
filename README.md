@@ -2,7 +2,7 @@
 
 YT-Downloader is a powerful browser extension that enables users to download YouTube videos, audio (MP3), subtitles, and thumbnails effortlessly.
 
-![YT-Downloader Extension](./mnt/data/20250310_114150.jpg)
+![YT-Downloader Extension](https://i.ibb.co.com/fV2kr8zL/20250310-114150.jpg)
 
 ## 🚀 Features
 

@@ -35,6 +35,12 @@ This project is built using the following technologies:
 - **JavaScript** – For handling interactions and logic.
 - **JSON** – For storing extension metadata and configurations.
 
+## 🔗 Extension Links
+
+- [Chrome Extension](#)
+- [Edge Extension](#)
+- [Firefox Extension](#)
+
 ## ⚠️ Disclaimer
 
 This extension is for educational purposes only. Downloading copyrighted content without permission may violate YouTube's terms of service.

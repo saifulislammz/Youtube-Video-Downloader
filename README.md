@@ -4,13 +4,11 @@ YT-Downloader is a powerful browser extension that enables users to download You
 
 ![YT-Downloader Extension](https://raw.githubusercontent.com/saifulislammz/Youtube-Video-Downloader/refs/heads/main/youtubeextension.jpeg)
 
-## 🚀 Features
+## 🔗 Extension Links
 
-- 🎥 Download YouTube videos in various resolutions.
-- 🎵 Extract and save audio as MP3 files.
-- 📝 Download subtitles in multiple languages.
-- 🖼️ Save video thumbnails easily.
-- ⚡ User-friendly and seamless integration with YouTube.
+- [Chrome Extension](#)
+- [Edge Extension](#)
+- [Firefox Extension](#)
 
 ## 🔧 Installation
 
@@ -19,6 +17,14 @@ YT-Downloader is a powerful browser extension that enables users to download You
 3. 🛠️ Enable "Developer Mode" (for Chrome-based browsers).
 4. 📂 Click on "Load unpacked" and select the extension folder.
 5. ✅ The extension will be installed and ready to use.
+
+## 🚀 Features
+
+- 🎥 Download YouTube videos in various resolutions.
+- 🎵 Extract and save audio as MP3 files.
+- 📝 Download subtitles in multiple languages.
+- 🖼️ Save video thumbnails easily.
+- ⚡ User-friendly and seamless integration with YouTube.
 
 ## 🎯 How to Use
 
@@ -34,12 +40,6 @@ This project is built using the following technologies:
 - **CSS** – For styling and design.
 - **JavaScript** – For handling interactions and logic.
 - **JSON** – For storing extension metadata and configurations.
-
-## 🔗 Extension Links
-
-- [Chrome Extension](#)
-- [Edge Extension](#)
-- [Firefox Extension](#)
 
 ## ⚠️ Disclaimer
 

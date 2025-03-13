@@ -26,15 +26,6 @@ YT-Downloader is a powerful browser extension that enables users to download You
 2. 🛑 You will see download options below the video player.
 3. ⬇️ Click on the respective button to download subtitles, thumbnails, video, or MP3 audio.
 
-## 📊 Profiling the Extension Performance
-
-To optimize and profile the extension:
-
-1. 🛠️ Open Developer Tools (`F12` or `Ctrl+Shift+I`).
-2. 📈 Navigate to the **Performance** tab.
-3. ▶️ Click **Record** and use the extension.
-4. 🔍 Analyze the performance and optimize network requests.
-
 ## ⚠️ Disclaimer
 
 This extension is for educational purposes only. Downloading copyrighted content without permission may violate YouTube's terms of service.

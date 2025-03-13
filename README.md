@@ -26,18 +26,6 @@ YT-Downloader is a powerful browser extension that enables users to download You
 2. 🛑 You will see download options below the video player.
 3. ⬇️ Click on the respective button to download subtitles, thumbnails, video, or MP3 audio.
 
-## 📡 Fetching Data
-
-This extension uses `fetch()` API to retrieve video, audio, and subtitle data. Below is an example of fetching video metadata:
-
-```javascript
-async function fetchVideoData(videoUrl) {
-    const response = await fetch(videoUrl);
-    const data = await response.blob();
-    return URL.createObjectURL(data);
-}
-```
-
 ## 📊 Profiling the Extension Performance
 
 To optimize and profile the extension:
